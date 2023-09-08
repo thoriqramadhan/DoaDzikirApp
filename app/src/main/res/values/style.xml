@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="setActionBar" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:text">Hello</item>
+        <item name="color">@color/black</item>
+    </style>
+</resources>
